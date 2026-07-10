@@ -13,7 +13,7 @@ CartFlow is a console-based Java application I built to simulate an e-commerce s
 ## Tech Stack
 
 * **Language:** Java
-* **Database:** MySQL / MariaDB
+* **Database:** MySQL 
 * **API:** Java Database Connectivity (JDBC)
 
 ## Setup and Installation
