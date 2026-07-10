@@ -22,13 +22,13 @@ CartFlow is a console-based Java application I built to simulate an e-commerce s
    * Open your MySQL client.
    * Run the provided `schema.sql` script to create the `shopping_cart_db` database, establish the tables, and insert the initial seed data.
 2. **Configure Credentials:**
-   * Open `Shoppingtrial.java`.
+   * Open `ShoppingCart.java`.
    * Update the `URL`, `USER`, and `PASS` constants to match your local MySQL configuration.
 3. **Add the JDBC Driver:**
    * Ensure the MySQL Connector/J driver is included in your project's build path or classpath.
 4. **Compile and Run:**
-   * Compile the Java file: `javac Shoppingtrial.java`
-   * Run the application: `java Shoppingtrial`
+   * Compile the Java file: `javac ShoppingCart.java`
+   * Run the application: `java ShoppingCart`
 
 ## Usage Example
 
