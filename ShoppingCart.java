@@ -2,7 +2,7 @@ import java.math.BigDecimal;
 import java.sql.*;
 import java.util.Scanner;
 
-public class Shoppingtrial {
+public class ShoppingCart {
 
     private static final String URL  = "jdbc:mysql://localhost:3306/shopping_cart_db";
     private static final String USER = "dhyan";
